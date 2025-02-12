@@ -1,0 +1,14 @@
+langchain~=0.3.0
+llama_cpp_python==0.2.26
+llama-index==0.9.36
+pandas==2.2.2
+scipy==1.14.0
+ollama==0.2.1
+numpy~=1.26.4
+jq==1.7.0
+sentence-transformers==3.0.1
+transformers~=4.44.2
+torch~=2.4.0
+tqdm~=4.66.5
+tree_sitter_languages==1.9.1
+tree-sitter==0.19.0
